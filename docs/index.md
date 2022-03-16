@@ -1,8 +1,6 @@
-## レクチャー マルチメディア 基礎からわかる音・画像・映像の情報処理 (数理工学社) サポートページ
+## サポートページ
 
-You can use the [editor on GitHub](https://github.com/mm-lecture-book/mm-lecture-book.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+近日中に，電子版書籍 と パワーポイント補助教材 をこちらで公開予定です．
 
 ### [公式ページ](https://www.saiensu.co.jp/search/?isbn=978-4-86481-081-4&y=2022)
 
