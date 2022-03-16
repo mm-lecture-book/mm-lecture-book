@@ -4,5 +4,5 @@ You can use the [editor on GitHub](https://github.com/mm-lecture-book/mm-lecture
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### [公式ページ]https://www.saiensu.co.jp/search/?isbn=978-4-86481-081-4&y=2022
+### [公式ページ](https://www.saiensu.co.jp/search/?isbn=978-4-86481-081-4&y=2022)
 
