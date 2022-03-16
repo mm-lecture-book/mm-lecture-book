@@ -1,4 +1,5 @@
-## レクチャー マルチメディア 基礎からわかる音・画像・映像の情報処理
+## レクチャー マルチメディア 基礎からわかる音・画像・映像の情報処理 (数理工学社) 
+## サポートページ
 
 You can use the [editor on GitHub](https://github.com/mm-lecture-book/mm-lecture-book.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
